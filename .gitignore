@@ -1,0 +1,5 @@
+# Project exclude paths
+/config-kafka/target/
+/config-scala/target/
+/rp-config/target/
+/rp-config-common/target/
